@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Version 1",
+    "download_url": "https://cdn.example.com/files/v1/build_a3f9d2.zip",
+    "mirror_url": "https://backup-cdn.example.net/mirrors/v1/build_a3f9d2.zip"
+  },
+  {
+    "name": "Version 2",
+    "download_url": "https://mirror.example.net/releases/v2/app_8k2m1p.exe",
+    "mirror_url": "https://alt-server.example.org/downloads/v2/app_8k2m1p.exe"
+  },
+  {
+    "name": "Version 3",
+    "download_url": "https://dl.example.org/packages/v3/release_x7n4q9.dmg",
+    "mirror_url": "https://fallback.example.io/dist/v3/release_x7n4q9.dmg"
+  },
+  {
+    "name": "Version 4",
+    "download_url": "https://assets.example.io/downloads/v4/update_j5t8w2.tar.gz",
+    "mirror_url": "https://secondary.example.co/archive/v4/update_j5t8w2.tar.gz"
+  },
+  {
+    "name": "Version 5",
+    "download_url": "https://storage.example.co/artifacts/v5/latest_m9r3k6.apk",
+    "mirror_url": "https://replica.example.com/files/v5/latest_m9r3k6.apk"
+  }
+]
