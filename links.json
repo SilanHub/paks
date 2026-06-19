@@ -1,7 +1,7 @@
 [
   {
-    "name": "r486",
-    "download_url": "https://cdn.example.com/files/v1/build_a3f9d2.zip",
+    "name": "arduino_robohand_simpleino test",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/arduino_robohand_simple.ino",
     "mirror_url": "https://backup-cdn.example.net/mirrors/v1/build_a3f9d2.zip"
   },
   {
