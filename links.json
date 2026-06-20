@@ -12,31 +12,31 @@
     "mirror_url": ""
   },
   {
-    "name": "r487-3 Stable",
+    "name": "r487-3 Release",
     "tag": "",
     "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r487-3.c3pack",
     "mirror_url": ""
   },
   {
-    "name": "r476-4 Stable",
+    "name": "r476-4 Release",
     "tag": "",
     "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r476-4.c3pack",
     "mirror_url": ""
   },
   {
-    "name": "r466-2 Stable",
+    "name": "r466-2 Release",
     "tag": "",
     "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r466-2.c3pack",
     "mirror_url": ""
   },
   {
-    "name": "r458-2 Stable",
+    "name": "r458-2 Release",
     "tag": "",
     "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r458-2.c3pack",
     "mirror_url": ""
   },
   {
-    "name": "LTS r449-3",
+    "name": "r449-3 Release (LTS)",
     "tag": "lts",
     "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r449-3.c3pack",
     "mirror_url": ""
@@ -45,6 +45,18 @@
     "name": "Animate r449-3 LTS",
     "tag": "an",
     "download_url": "https://silanhub.t3.tigrisfiles.io/animate-r449-3.c3pack",
+    "mirror_url": ""
+  },
+  {
+    "name": "r429 Beta",
+    "tag": "",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r429.c3pack",
+    "mirror_url": ""
+  },
+  {
+    "name": "r424 Release",
+    "tag": "",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r424.c3pack",
     "mirror_url": ""
   }
 ]
