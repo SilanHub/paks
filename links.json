@@ -1,27 +1,27 @@
 [
   {
-    "name": "arduino_robohand_simpleino test",
-    "download_url": "https://silanhub.t3.tigrisfiles.io/arduino_robohand_simple.ino",
-    "mirror_url": "https://backup-cdn.example.net/mirrors/v1/build_a3f9d2.zip"
+    "name": "r490 Beta",
+    "tag": "new",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r490.c3pack"
   },
   {
-    "name": "Version 2",
-    "download_url": "https://mirror.example.net/releases/v2/app_8k2m1p.exe",
-    "mirror_url": "https://alt-server.example.org/downloads/v2/app_8k2m1p.exe"
+    "name": "r488 Release",
+    "tag": "",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r488.c3pack"
   },
   {
-    "name": "Version 3",
-    "download_url": "https://dl.example.org/packages/v3/release_x7n4q9.dmg",
-    "mirror_url": "https://fallback.example.io/dist/v3/release_x7n4q9.dmg"
+    "name": "LTS r449-3",
+    "tag": "lts",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r449-3.c3pack"
   },
   {
-    "name": "Version 4",
-    "download_url": "https://assets.example.io/downloads/v4/update_j5t8w2.tar.gz",
-    "mirror_url": "https://secondary.example.co/archive/v4/update_j5t8w2.tar.gz"
-  },
-  {
-    "name": "Version 5",
-    "download_url": "https://storage.example.co/artifacts/v5/latest_m9r3k6.apk",
-    "mirror_url": "https://replica.example.com/files/v5/latest_m9r3k6.apk"
+    "name": "Animate r449-3 LTS",
+    "tag": "an",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/animate-r449-3.c3pack"
   }
+  {
+    "name": "r430 Beta",
+    "tag": "",
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r430.c3pack"
+  },
 ]
