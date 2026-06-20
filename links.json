@@ -2,26 +2,31 @@
   {
     "name": "r490 Beta",
     "tag": "new",
-    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r490.c3pack"
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r490.c3pack",
+    "mirror_url": ""
   },
   {
     "name": "r488 Release",
     "tag": "",
-    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r488.c3pack"
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r488.c3pack",
+    "mirror_url": ""
   },
   {
     "name": "LTS r449-3",
     "tag": "lts",
-    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r449-3.c3pack"
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r449-3.c3pack",
+    "mirror_url": ""
   },
   {
     "name": "Animate r449-3 LTS",
     "tag": "an",
-    "download_url": "https://silanhub.t3.tigrisfiles.io/animate-r449-3.c3pack"
-  }
+    "download_url": "https://silanhub.t3.tigrisfiles.io/animate-r449-3.c3pack",
+    "mirror_url": ""
+  },
   {
     "name": "r430 Beta",
     "tag": "",
-    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r430.c3pack"
-  },
+    "download_url": "https://silanhub.t3.tigrisfiles.io/editor-r430.c3pack",
+    "mirror_url": ""
+  }
 ]
